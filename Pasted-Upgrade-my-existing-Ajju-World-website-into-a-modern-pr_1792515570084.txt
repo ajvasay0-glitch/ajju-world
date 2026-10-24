@@ -1,0 +1,274 @@
+Upgrade my existing Ajju World website into a modern, professional, feature-rich, mobile-friendly platform.
+
+IMPORTANT:
+
+- Inspect my existing project before making changes.
+- Preserve all existing working features, project files, and data.
+- Do not rebuild the entire website from scratch.
+- Use the existing technology stack.
+- Do not remove any working feature.
+- Make changes carefully and test everything.
+- Do not require paid services without explaining the cost first.
+
+==================================================
+
+1. WEBSITE BRANDING AND PROFESSIONAL DESIGN
+   ==================================================
+
+- Keep the website name "Ajju World".
+- Add the tagline "Learn • Explore • Grow".
+- Use a modern navy blue, purple, and white color palette.
+- Create a professional logo treatment and homepage.
+- Improve fonts, spacing, cards, buttons, icons, and navigation.
+- Make the website responsive on mobile phones, tablets, and desktops.
+- Add a working Dark Mode toggle.
+- Add smooth, simple animations without slowing down the website.
+- Create a clean header, search bar, category section, and footer.
+- Keep the design simple and easy for beginners to use.
+- Support Gujarati, Hindi, and English wherever practical.
+
+==================================================
+2. EDUCATION: STANDARDS 1 TO 12
+
+Create a complete Education section inside Ajju World.
+
+Features:
+
+- Standards 1 through 12.
+- Subject selection.
+- Chapter and exercise selection.
+- Textbook questions and solutions.
+- Step-by-step explanations.
+- Search questions by typing.
+- MCQ quizzes and practice tests.
+- Automatic score calculation.
+- Correct answers and explanations after tests.
+- Chapter-wise study materials.
+- Exam preparation and revision.
+- Mobile-friendly reading experience.
+
+IMPORTANT:
+Use verified educational material and authentic textbook questions wherever available. Do not invent textbook solutions or claim that every chapter is complete when it is not. Organize the system so verified content can be added gradually.
+
+==================================================
+3. JOBS AND CAREER INFORMATION
+
+Create an internal Jobs section.
+
+Features:
+
+- Government jobs and private jobs.
+- Job categories and qualification filters.
+- Job title and organization name.
+- Eligibility and required qualifications.
+- Salary information when available.
+- Application opening and closing dates when verified.
+- Required documents.
+- Selection process.
+- Official application links.
+- Search jobs by qualification and category.
+- Career guidance for students and job seekers.
+
+IMPORTANT:
+Never invent vacancies, salaries, deadlines, or application links. Display the source and last-verified date. Clearly identify expired vacancies and unverified information.
+
+==================================================
+4. INTERNAL NAVIGATION AND EXTERNAL SITE BUTTONS
+
+- Remove unnecessary External Site buttons and redirects from Education and Jobs.
+- Make Education pages, quizzes, study materials, and job listings open inside Ajju World.
+- Keep users inside Ajju World whenever the feature can genuinely work internally.
+- Keep official external links only when required, such as submitting a government application or applying for a job.
+- Do not pretend an external government application has been submitted inside Ajju World.
+- Preserve the existing homepage and all working navigation.
+- Test all buttons and internal links.
+
+==================================================
+5. ONLINE FORM HELP AND GOVERNMENT SERVICES
+
+Create a new category named "Online Form Help".
+
+Add a prominent search box where users can type the name of any form they need help with.
+
+Include these categories:
+
+- Aadhaar Card.
+- PAN Card.
+- Voter ID.
+- Income Certificate.
+- Caste Certificate.
+- Residence Certificate.
+- Birth Certificate.
+- Marriage Certificate.
+- Scholarship Forms.
+- School and College Admission Forms.
+- Government Job Application Forms.
+- Government Schemes.
+- Pension and Social Welfare Schemes.
+- Banking Application Guidance.
+- Other commonly used online forms.
+
+For each form, provide the following where verified:
+
+- Purpose of the form.
+- Eligibility criteria.
+- Required documents.
+- Step-by-step instructions.
+- Explanation of form fields.
+- Common mistakes and how to fix them.
+- Application fees, if applicable.
+- Important dates and deadlines, if applicable.
+- Verified official website.
+- Official source and last-verified date.
+
+Create a guided form-filling assistant that explains each step in simple Gujarati, Hindi, and English.
+
+Where legally and technically possible, allow users to complete a form inside Ajju World, preview their information, and download a draft or printable document.
+
+For government applications that must be submitted on an official portal, explain the process and provide the verified official link.
+
+Never imitate an official government website, create fake certificates, or falsely claim that an application has been submitted.
+
+Protect privacy:
+
+- Do not unnecessarily store Aadhaar numbers, identity documents, passwords, or OTPs.
+- Never ask users to share OTPs or passwords with the AI assistant.
+- Do not collect sensitive personal information unless genuinely required for a legitimate feature and properly protected.
+- Clearly explain which information is saved and why.
+
+==================================================
+6. AI FORM ASSISTANT
+
+Create an AI Form Assistant interface within Ajju World.
+
+Users should be able to ask questions such as:
+
+- How do I fill out this form?
+- Which documents are required?
+- What should I enter in this field?
+- Why is my application being rejected?
+- How can I correct a mistake?
+- Where can I check my application status?
+
+Features:
+
+- Simple Gujarati, Hindi, and English explanations.
+- Step-by-step guidance.
+- Contextual help for the selected form.
+- Links to relevant official sources.
+- Clear warnings when information needs verification.
+
+IMPORTANT:
+Use a real AI integration only when configured. Do not show fake AI answers or pretend an AI service is connected if it is not. Identify any required API keys and explain possible costs before requiring a paid service.
+
+==================================================
+7. SEARCH FEATURE
+
+Improve the existing Search section.
+
+Features:
+
+- Search within Ajju World.
+- Search education questions and study materials.
+- Search job listings.
+- Search government forms and application guides.
+- Show relevant internal pages and helpful results.
+- Display a useful message when no result is found.
+- Do not show fake search results.
+- Keep the search interface fast and mobile-friendly.
+
+==================================================
+8. AI CATEGORY
+
+Improve the existing AI section.
+
+Features:
+
+- Simple question-and-answer interface.
+- Gujarati, Hindi, and English support where possible.
+- Helpful educational and general explanations.
+- A clean chat interface.
+- Useful error messages when the AI service is unavailable.
+
+Preserve existing integrations. Do not claim that AI is working until the required integration is configured and tested.
+
+==================================================
+9. SHOPPING CATEGORY
+
+Improve the existing Shopping section.
+
+Features:
+
+- Search products.
+- Product categories.
+- Product cards with names, images, and prices when verified.
+- Product information and comparisons where supported.
+- Clear links to legitimate sellers when necessary.
+- Mobile-friendly browsing.
+
+Do not invent products, prices, reviews, or availability. Do not claim that purchases can be completed internally unless a real checkout system is implemented.
+
+==================================================
+10. VIDEO CATEGORY
+
+Improve the existing Video section.
+
+Features:
+
+- A clean video browsing interface.
+- Video categories.
+- Search and filtering.
+- Video thumbnails and titles.
+- Video playback when supported.
+- Upload functionality only if a working upload system exists or is implemented.
+
+Preserve existing working video integrations. Do not display fake videos or broken playback buttons.
+
+==================================================
+11. USER EXPERIENCE AND ACCESSIBILITY
+
+- Make every page easy to use on a mobile phone.
+- Use readable text and accessible color contrast.
+- Provide clear loading, success, empty, and error states.
+- Use consistent buttons and navigation.
+- Add useful confirmation messages.
+- Make forms easy to understand.
+- Avoid unnecessary pop-ups.
+- Keep page loading fast.
+- Ensure important features are easy to find from the homepage.
+
+==================================================
+12. TECHNICAL REQUIREMENTS
+
+- Inspect the existing project before modifying files.
+- Reuse the current framework and dependencies.
+- Do not delete existing working code or project data.
+- Avoid unnecessary packages and paid services.
+- Use reusable components and clean code.
+- Validate form inputs.
+- Handle errors safely.
+- Protect user information.
+- Keep secrets and API keys out of frontend code.
+- Do not expose private credentials.
+- Make sure internal navigation works correctly.
+- Check responsive layouts on mobile, tablet, and desktop.
+- Test existing and newly added features.
+- Do not create buttons that do nothing.
+- Do not display sample data as if it were real information.
+- If a feature requires a backend, database, API key, official integration, or external permission, explain the requirement clearly.
+
+==================================================
+13. FINAL CHECK AND REPORT
+
+After making the changes:
+
+1. Summarize all changes made.
+2. List the features that are fully working.
+3. List the features that are only partially implemented.
+4. Identify any missing content, API keys, databases, or integrations.
+5. Explain any additional costs before requiring paid services.
+6. Test the main navigation, Education, Jobs, Online Form Help, Search, AI, Shopping, and Video.
+7. Fix any errors that can be fixed safely.
+8. Preserve the existing Ajju World project and its working features.
+
+Build the most useful and professional version possible within the existing project and available resources. Prioritize reliable functionality, verified information, privacy, and a great mobile experience.
